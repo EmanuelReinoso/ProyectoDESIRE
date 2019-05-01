@@ -1,7 +1,7 @@
 ﻿import USB,evdev,threading,sys,time
 from collections import defaultdict
 
-{- Merge test -}  dada ñakañaka AAAAAAAAAAAAAAAra
+{- Merge test -}  dada ñakañaka AAAAAAAAAAAAAAAra SARASAAAA
 
 teclas = { evdev.ecodes.KEY_A : 'A',
 	   evdev.ecodes.KEY_B : 'B',
